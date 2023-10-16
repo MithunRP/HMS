@@ -3,12 +3,12 @@
 Clone the project
 
 ```bash
- git clone https://github.com/MithunRP/HSM.git
+ git clone https://github.com/MithunRP/HMS.git
 ```
 Go to the project directory
 
 ```bash
-  cd HSM
+  cd HMS
 ```
 
 Install dependencies
