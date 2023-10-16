@@ -68,10 +68,6 @@ Password - Admin
 
 ## 🔗 Links
 
-Dashboard - https://hm-system.netlify.app/
-
-User Side - https://hms-user-side.netlify.app/
-
 Server - https://github.com/MithunRP/HSM.git
 
 ## Screenshots
