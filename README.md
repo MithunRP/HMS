@@ -3,8 +3,8 @@
 Clone the project
 
 ```bash
-git clone https://github.com/MithunRP/HSM.git```
-
+ git clone https://github.com/MithunRP/HSM.git
+```
 Go to the project directory
 
 ```bash
@@ -72,7 +72,7 @@ Dashboard - https://hm-system.netlify.app/
 
 User Side - https://hms-user-side.netlify.app/
 
-Server - https://github.com/piyush-agrawal6/HMS-Backend
+Server - https://github.com/MithunRP/HSM.git
 
 ## Screenshots
 
