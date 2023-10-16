@@ -3,8 +3,7 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/piyush-agrawal6/Hospital-Management-System.git
-```
+git clone https://github.com/MithunRP/HSM.git```
 
 Go to the project directory
 
@@ -105,13 +104,9 @@ Server - https://github.com/piyush-agrawal6/HMS-Backend
 
 ![31 01 2023_21 15 44_REC](https://user-images.githubusercontent.com/100460788/215808752-4ebfb582-1db0-45e4-ac53-a87a5f1b75ea.png)
 
-## Presentation
-
-Link - <a href="https://drive.google.com/file/d/1xwcSsjdl6QHnJ-JXl11moBAwSqSQFRjh/view?usp=sharing" alt="presentation">Drive</a>
-
 ## Team Members / Contributors
 
-Mithun RP
-Manojgowda KS
-Madhav Adithya MS
-Mithun Dev M
+Mithun RP<br>
+Manojgowda KS<br>
+Madhav Adithya MS<br>
+Mithun Dev M<br>
