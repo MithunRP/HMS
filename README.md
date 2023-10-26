@@ -69,10 +69,3 @@ Password - Admin
 ## 🔗 Links
 
 Server - https://github.com/MithunRP/HSM.git
-
-## Team Members / Contributors
-
-Mithun RP<br>
-Manojgowda KS<br>
-Madhav Adithya MS<br>
-Mithun Dev M<br>
